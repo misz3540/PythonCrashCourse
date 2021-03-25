@@ -1,0 +1,3 @@
+In Python, you can do list comprehension format in place of for loop.
+In Python, you can read out a text file.
+In Python, you can store lines of strings as a list from a text file.
